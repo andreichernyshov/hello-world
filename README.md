@@ -1,2 +1,5 @@
 # hello-world
-my 1st
+
+Hello, I for 3 monthes learning my first programming languadge, it's Python3, by myself...
+I reach my first target - to learn 1 powerfull programing languadge. Now learning such stack of technologies
+that provide me at first to full-stack web-dev, but my really passion (as I decide for myself) is AI, ML, DataScience...
